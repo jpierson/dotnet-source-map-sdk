@@ -1,5 +1,7 @@
 # .NET Source Map SDK
 
+📣***This project is no longer being developed. Thanks to @delneg's efforts we already have a working port of the source-map project and available in Fable 3.1. Please see https://github.com/delneg/source-map-sharp if you are looking for a .NET or F# specific library for working with source map files.***
+
 This is a port of the [source-map](https://github.com/mozilla/source-map) project from Mozilla but for use in .NET applications and tools. The library allows for generating and consuming [source map files](https://docs.google.com/document/d/1U1RGAehQwRypUTovF1KRlpiOFze0b-_2gc6fAH0KY0k/edit).
 
 ## Motivation
